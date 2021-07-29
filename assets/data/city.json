@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "elj1"
+  },
+  "name": "El jadida",
+  "icon": "https://maroc-diplomatique.net/wp-content/uploads/2018/06/eljadida.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "cas2"
+  },
+  "name": "CasaBlanca",
+  "icon": "https://www.courrierinternational.com/sites/ci_master/files/styles/image_original_1280/public/assets/images/casablanca_maroc_expat.jpg?itok=1oXyVJHb",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "mar3"
+  },
+  "name": "Marrackech",
+  "icon": "https://voyageursintrepides.com/wp-content/uploads/2021/01/que-visiter-marrakech-voir.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "tet4"
+  },
+  "name": "Tetouan",
+  "icon": "https://www.infostourismemaroc.com/uploads/images/gallery/5ec53d5d2e4fc_medina-tetouan-patrimoine-unesco-ancienne--morocco-infos-tourisme-maroc.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "saf5"
+  },
+  "name": "Safi",
+  "icon": "https://www.infostourismemaroc.com/uploads/images/city/lg/5dbbfdef97229_visiter-morocco-safi-ville-infos-tourisme-maroc.jpg",
+
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "tan6"
+  },
+  "name": "Tanger",
+  "icon": "https://i2.wp.com/leseco.ma/wp-content/uploads/2021/01/Tanger.jpg?fit=1200%2C600&ssl=1",
+  "__v": 0
+}]

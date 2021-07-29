@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "1r"
+  },
+  "name": "Restaurant",
+  "icon": "https://ad962edbae8ba7b03b7f-d10007df79b5b7a4e475a291e50a08cf.ssl.cf3.rackcdn.com/ouvrir-un-restaurant/comment-ouvrir-un-restaurant.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "2c"
+  },
+  "name": "Cafe",
+  "icon": "https://images.bfmtv.com/dcvOczLg8RuMB5Y4WEY4ar60-Eo=/3x57:1059x651/1056x0/images/-198117.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "3h"
+  },
+  "name": "Hotel",
+  "icon": "https://media-cdn.tripadvisor.com/media/photo-s/1c/d1/44/08/standard-room.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "4p"
+  },
+  "name": "Pharmacy",
+  "icon": "https://pharmaceutical-journal.com/wp-content/uploads/2021/01/face-mask-pharmacy-pa-20-scaled.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5s"
+  },
+  "name": "School",
+  "icon": "https://www.travelfoodnfitness.com/wp-content/uploads/2020/09/good-schhol.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6d"
+  },
+  "name": "Doctor",
+  "icon": "https://aawafi.com/uploads/partners/profile/doctor.jpg",
+  "__v": 0
+}]

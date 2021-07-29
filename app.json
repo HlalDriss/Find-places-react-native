@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "findPlace",
+    "slug": "findPlace",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logoscran.png",
+    "splash": {
+      "image": "./assets/logoscran.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logoscran.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.findplaces"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
