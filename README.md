@@ -57,18 +57,18 @@ npx react-native run-android
 # or
 npx react-native run-ios
 ```
-###Usage
+### Usage
 - Open the app on your device or emulator.
 - Allow location permissions when prompted.
 - Use the search bar or map to find interesting places.
 - Tap any place to view details or add it to your favorites.
-###Contributing
+### Contributing
 Contributions are welcome! Please open an issue or submit a pull request for improvements or bug fixes.
 
-###License
+### License
 This project is licensed under the MIT License.
 
-###Contact
+### Contact
 Created by HlalDriss.
 For questions or feedback, please open an issue on GitHub.
    
