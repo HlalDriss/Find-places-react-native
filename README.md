@@ -34,3 +34,41 @@ Find Places is a mobile application built with React Native that helps users dis
    ```bash
    git clone https://github.com/HlalDriss/Find-places-react-native.git
    cd Find-places-react-native
+   ```
+2. **Install dependencies:**
+
+```bash
+npm install
+```
+or
+
+```bash
+yarn install
+```
+3. **Start the app:**
+
+```bash
+npx expo start
+```
+or, if using React Native CLI:
+
+```bash
+npx react-native run-android
+# or
+npx react-native run-ios
+```
+###Usage
+- Open the app on your device or emulator.
+- Allow location permissions when prompted.
+- Use the search bar or map to find interesting places.
+- Tap any place to view details or add it to your favorites.
+###Contributing
+Contributions are welcome! Please open an issue or submit a pull request for improvements or bug fixes.
+
+###License
+This project is licensed under the MIT License.
+
+###Contact
+Created by HlalDriss.
+For questions or feedback, please open an issue on GitHub.
+   
