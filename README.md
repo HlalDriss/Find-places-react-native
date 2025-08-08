@@ -17,7 +17,6 @@ Find Places is a mobile application built with React Native that helps users dis
 <p float="left">
   <img src="assets/screenshot-1.png" width="200" />
   <img src="assets/screenshot-2.png" width="200" />
-  <img src="assets/screenshot-3.png" width="200" />
 </p>
 
 ## Getting Started
